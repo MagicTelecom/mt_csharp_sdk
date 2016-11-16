@@ -10,7 +10,7 @@ namespace MagicTelecomAPI.PCL
     public partial class Configuration
     {
         //The base Uri for API calls
-        public static string BaseUri = "https://api.magictelecom.com/app_dev.php";
+        public static string BaseUri = "https://api.magictelecom.com";
 
         //API Token
         //TODO: Replace the XAuthToken with an appropriate value
